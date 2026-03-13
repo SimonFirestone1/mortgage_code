@@ -44,7 +44,7 @@ Below are loan-level ROC curves and sample-level prepayment forecasts for this s
 
 ![OOS ROC](roc_in_sample.png)
 
-![OOS PREPAY][prepay_oos.png]
+![OOS PREPAY](prepay_oos.png)
 
 ## Future work
 
